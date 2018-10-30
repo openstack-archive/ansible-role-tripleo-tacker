@@ -1,0 +1,8 @@
+Code-Review+2: Jill Rouleau <jill.rouleau@bespokess.com>
+Workflow+1: Jill Rouleau <jill.rouleau@bespokess.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Tue, 30 Oct 2018 22:48:22 +0000
+Reviewed-on: https://review.openstack.org/612047
+Project: openstack/ansible-role-tripleo-tacker
+Branch: refs/heads/master
